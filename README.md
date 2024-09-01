@@ -1,6 +1,6 @@
 # Шпаргалка по Git, GitHub.
 
-1. Регистрация аккаунта на GitHub [Создание учётной записи](https://docs.github.com/ru/get-started/start-your-journey/creating-an-account-on-github"Переход на страницу помощи GitHub")
+1. Регистрация аккаунта на GitHub [Создание учётной записи](https://docs.github.com/ru/get-started/start-your-journey/creating-an-account-on-github "Переход на страницу помощи GitHub")
 
 2. Загрузка на локальный компьютер программы для работы с **Git** (GitBash для работы на Windows)
 
